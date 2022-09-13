@@ -1,0 +1,27 @@
+body{
+    background-image: url(images/img1.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    margin: 20% 0% 0% 0%;
+}
+
+h2{
+    color:white;
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+    border-radius:20px;
+    padding: 10px;
+    border:2px solid white;
+}
+
+button:hover{
+    background-color: darkorchid;
+}
